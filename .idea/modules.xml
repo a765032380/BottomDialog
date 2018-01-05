@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/DectorViewDemo.iml" filepath="$PROJECT_DIR$/DectorViewDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BottomDialogDemo.iml" filepath="$PROJECT_DIR$/BottomDialogDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/bottomdialog/bottomdialog.iml" filepath="$PROJECT_DIR$/bottomdialog/bottomdialog.iml" />
     </modules>

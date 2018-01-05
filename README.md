@@ -26,7 +26,7 @@ dependencies {
 #### 2、设置布局文件
     builder.setContentView(R.layout.layout_bottom_demo);
 #### 3、获取BottomDialog对象
-    bottomDialog = builder.create();
+    BottomDialog bottomDialog = builder.create();
 #### 4、显示BottomDialog
     bottomDialog.show();
 #### 5、获取布局View对象,用于设置布局内的控件事件
